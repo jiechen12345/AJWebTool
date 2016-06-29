@@ -1,0 +1,17 @@
+.media-object {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+nav.navbar.navbar-default {
+    height: 100px;
+}
+
+.media {
+	cursor: pointer;
+}
+
+.messagediv {
+	display: none;
+}
